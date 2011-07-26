@@ -49,6 +49,6 @@ DEPENDENCIES
   rcov
   rest-client (>= 1.4.0, < 1.7.0)
   sequel (~> 3.20.0)
-  sinatra (~> 1.0.0)
+  sinatra (~> 1.0)
   sqlite3-ruby (~> 1.2)
   thin (> 1.2.0)
